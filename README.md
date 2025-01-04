@@ -8,3 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 => so far i have created a layout component and navbar and footer component and combined both navbar and footer components in my layout component and created pages and installed react-router-dom for easy routings
+
+=> by using lucide react getting images got easy
